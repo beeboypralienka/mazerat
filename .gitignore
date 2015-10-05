@@ -4,6 +4,9 @@
 *.o
 *.obj
 
+# Project Dev C++
+*.dev
+
 # Precompiled Headers
 *.gch
 *.pch
