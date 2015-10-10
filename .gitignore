@@ -6,6 +6,8 @@
 
 # Project Dev C++
 *.dev
+*.win
+*.layout
 
 # Precompiled Headers
 *.gch
